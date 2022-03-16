@@ -1,3 +1,3 @@
 # momcy
 momcy
-https://raw.githubusercontent.com/maumonotematico/momcy/master/logo.png
+(https://raw.githubusercontent.com/maumonotematico/momcy/master/logo.png)
